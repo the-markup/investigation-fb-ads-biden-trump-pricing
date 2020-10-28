@@ -1,9 +1,9 @@
 # Facebook Elections Ad Pricing
 This repository contains code to reproduce the findings featured in our story, "[Facebook Charged Biden a Higher Price Than Trump for Campaign Ads](themarkup.org/election-2020/2020/10/29/facebook-political-ad-targeting-algorithm-prices-trump-biden)" from our series, [Election 2020](https://themarkup.org/series/election-2020).
 
-Our methodology is described in "[How We Analyzed The Cost of Trump's and Biden's Campaign Ads on Facebook](https://themarkup.org/election-2020/2020/10/29/how-we-analyzed-the-cost-of-trumps-and-bidens-campaign-ads-on-facebook)".
+Our methodology is described in "[How We Analyzed the Cost of Trump's and Biden's Campaign Ads on Facebook](https://themarkup.org/election-2020/2020/10/29/how-we-analyzed-the-cost-of-trumps-and-bidens-campaign-ads-on-facebook)".
 
-Jupyter notebooks used for data preprocessing and analysis are avialble in the notebooks folder.
+The Jupyter notebook used for data preprocessing and analysis is available in the notebooks folder.
 
 The data is ultimately sourced from Facebook's Ad Library API (https://www.facebook.com/ads/library/api/) via a database provided via the NYU Online Political Transparency Project's [Ad Observatory](https://www.adobservatory.org).
 
