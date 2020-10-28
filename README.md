@@ -3,12 +3,9 @@ This repository contains code to reproduce the findings featured in our story, "
 
 Our methodology is described in "[How We Analyzed The Cost of Trump's and Biden's Campaign Ads on Facebook](https://themarkup.org/election-2020/2020/10/29/how-we-analyzed-the-cost-of-trumps-and-bidens-campaign-ads-on-facebook)".
 
-The the figures and tables from our analysis can be found in the data folder.
-Since our full dataset was too large to place in GitHub, we provide a subset in the data-subsample folder.
-To use the full dataset, please refer to the Download data.
-
 Jupyter notebooks used for data preprocessing and analysis are avialble in the notebooks folder.
 
+The data is ultimately sourced from Facebook's Ad Library API (https://www.facebook.com/ads/library/api/) via a database provided via the NYU Online Political Transparency Project's [Ad Observatory](https://www.adobservatory.org).
 
 ## Licensing
 Copyright 2020, The Markup News Inc.
