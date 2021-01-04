@@ -1,5 +1,5 @@
 # Facebook Elections Ad Pricing
-This repository contains code to reproduce the findings featured in our story, "[Facebook Charged Biden a Higher Price Than Trump for Campaign Ads](themarkup.org/election-2020/2020/10/29/facebook-political-ad-targeting-algorithm-prices-trump-biden)" from our series, [Election 2020](https://themarkup.org/series/election-2020).
+This repository contains code to reproduce the findings featured in our story, "[Facebook Charged Biden a Higher Price Than Trump for Campaign Ads](https://themarkup.org/election-2020/2020/10/29/facebook-political-ad-targeting-algorithm-prices-trump-biden)" from our series, [Election 2020](https://themarkup.org/series/election-2020).
 
 Our methodology is described in "[How We Analyzed the Cost of Trump's and Biden's Campaign Ads on Facebook](https://themarkup.org/election-2020/2020/10/29/how-we-analyzed-the-cost-of-trumps-and-bidens-campaign-ads-on-facebook)".
 
